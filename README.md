@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo/logo.webp" alt="Logo do Projeto Didático After Effects" width="200" style="border-radius: 100%;" />
+  <img src="assets/images/Senac.png" alt="Logo do Projeto Didático After Effects" width="200" style="border-radius: 100%;" />
 </p>
 
 <h1 align="center">Projetos Didáticos After Effects</h1>
