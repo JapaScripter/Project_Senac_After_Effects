@@ -23,8 +23,7 @@ Todos os projetos foram elaborados com foco em aprendizado prático e experiment
 
 ### 🛠️ Ferramentas e recursos utilizados
 
-- **Adobe After Effects** – Criação de composições, animações e efeitos visuais  
-- **Adobe Illustrator / Photoshop** – Apoio na criação de vetores e elementos visuais  
+- **Adobe After Effects** – Criação de composições, animações e efeitos visuais
 - **Expressões e Keyframes** – Automação e controle de animações  
 - **Pré-composições e Máscaras** – Organização e refinamento dos projetos  
 - **Plugins e Presets (quando aplicável)** – Complementos para ampliar as possibilidades criativas
